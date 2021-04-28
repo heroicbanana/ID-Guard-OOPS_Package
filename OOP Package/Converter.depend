@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1555052889 source:d:\conv\converter\main.cpp
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<iostream>
+	"Converter.h"
+	"Login.h"
+	"Directory.h"
+
+1553852893 d:\conv\converter\converter.h
+	<stdio.h>
+	<fstream>
+	<iostream>
+	<string.h>
+	<strings.h>
+
+1553858678 d:\scratch\directory.h
+	<sys/types.h>
+	<dirent.h>
+	<errno.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+
+1553861113 d:\scratch\login.h
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+
+1555053584 d:\conv\converter\login.h
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<windows.h>
+
+1555049842 d:\conv\converter\directory.h
+	<sys/types.h>
+	<dirent.h>
+	<errno.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+
+1555052889 source:d:\conv\convcopy\main.cpp
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<iostream>
+	"Converter.h"
+	"Login.h"
+	"Directory.h"
+
+1553852893 d:\conv\convcopy\converter.h
+	<stdio.h>
+	<fstream>
+	<iostream>
+	<string.h>
+	<strings.h>
+
+1555053584 d:\conv\convcopy\login.h
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<direct.h>
+	<windows.h>
+
+1555062032 d:\conv\convcopy\directory.h
+	<sys/types.h>
+	<dirent.h>
+	<errno.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+
